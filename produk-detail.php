@@ -39,6 +39,76 @@
                     </p>
                     <p class="fs-5">Status Ketersediaan : <strong><?php echo $produk
                     ['ketersediaan_stok']; ?></strong></p>
+                    <?php
+                    $sizeS  = $produk['stok_s'];
+                    $sizeM  = $produk['stok_m'];
+                    $sizeL  = $produk['stok_l'];
+                    $sizeXL = $produk['stok_xl'];
+                    $sizeXXL = $produk['stok_xxl'];
+                    ?>
+
+                    <h5 class="mt-4">Pilih Ukuran</h5>
+
+                    <div id="sizeOptions" class="d-flex gap-2 my-3">
+                        <button type="button" class="btn btn-outline-dark size-btn"
+                                onclick="pilihUkuran('S')">S</button>
+                        <button type="button" class="btn btn-outline-dark size-btn"
+                                onclick="pilihUkuran('M')">M</button>
+                        <button type="button" class="btn btn-outline-dark size-btn"
+                                onclick="pilihUkuran('L')">L</button>
+                        <button type="button" class="btn btn-outline-dark size-btn"
+                                onclick="pilihUkuran('XL')">XL</button>
+                        <button type="button" class="btn btn-outline-dark size-btn"
+                                onclick="pilihUkuran('XXL')">XXL</button>
+
+                    <a id="addCartBtn" href="tambah-cart.php?id=<?= $produk['id']; ?>&size=" class="btn btn-success">
+                        Tambah ke Keranjang
+                    </a>
+
+                    <script>
+                    let selectedSize = "";
+
+                    // fungsi ketika mengklik tombol ukuran
+                    function pilihUkuran(size) {
+                        selectedSize = size;
+                        document.getElementById("addCartBtn").href =
+                            "tambah-cart.php?id=<?= $produk['id']; ?>&size=" + size;
+                    }
+
+                    // saat klik tombol keranjang
+                    document.getElementById("addCartBtn").addEventListener("click", function (e) {
+                        if (selectedSize === "") {
+                            e.preventDefault();
+                            alert("Silahkan pilih ukuran dulu!");
+                        }
+                    });
+
+
+                    document.querySelectorAll(".size-btn").forEach(btn => {
+                        btn.addEventListener("click", function () {
+                            selectedSize = this.getAttribute("data-size");
+                            document.getElementById("selectedSize").value = selectedSize;
+
+                            // reset highlight
+                            document.querySelectorAll(".size-btn").forEach(b => b.classList.remove("btn-dark"));
+                            document.querySelectorAll(".size-btn").forEach(b => b.classList.add("btn-outline-dark"));
+
+                            // aktifkan yang dipilih
+                            this.classList.remove("btn-outline-dark");
+                            this.classList.add("btn-dark");
+                        });
+                    });
+
+                    document.getElementById("addToCartBtn").addEventListener("click", function () {
+                        if (!selectedSize) {
+                            alert("Silahkan pilih ukuran dulu!");
+                            return;
+                        }
+                        window.location.href = "tambah-cart.php?id=<?php echo $produk['id']; ?>&size=" + selectedSize;
+                    });
+                    </script>
+
+
                 </div>
             </div>
         </div>
