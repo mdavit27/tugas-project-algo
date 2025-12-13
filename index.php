@@ -71,13 +71,10 @@
         <div class="container text-center">
             <h3>Tentang Kami</h3>
             <p class="fs-5 mt-3">
-                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur alias earum
-                 reiciendis nulla fugit quaerat expedita asperiores cupiditate beatae vero molestiae 
-                 delectus itaque facilis odio eligendi numquam commodi sapiente minus officiis assumenda 
-                 unde, necessitatibus deleniti! Consequatur iure obcaecati similique maiores sequi, eaque 
-                 corporis! Sit, odit ipsa animi laborum repellat ex quo hic, non nihil accusamus facilis 
-                 recusandae. Repudiandae dolorem architecto corrupti a quod officiis cupiditate eaque facere 
-                 consequatur minima? At ad rerum recusandae maxime atque alias facilis quam dolores perferendis!
+                 Di Veluna, kami percaya kalau semua orang pantas tampil keren tanpa harus pusing 
+                 mikirin harga. Fashion di sini dibuat untuk kamu yang ingin nyaman, stylish, dan 
+                 tetap jadi diri sendiri. Pilih outfit favoritmu, checkout, tunggu paketnya datang, 
+                 pakai… dan biarkan dunia iri. 😎✨
             </p>
         </div>
     </div>

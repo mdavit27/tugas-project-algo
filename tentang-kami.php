@@ -22,34 +22,27 @@
       <div class="container-fluid py-5">
         <div class="container fs-5 text-center">
             <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus quae incidunt 
-                assumenda nobis facere! Distinctio rem incidunt ipsum ipsa maxime fugiat ut nulla ab reprehenderit 
-                neque consequuntur aliquid ipsam optio quibusdam dolorum illo eos voluptate corporis, nobis tempora 
-                voluptatum. Autem magnam voluptates animi quasi et saepe, ad nihil voluptate ullam fugiat nulla nobis. 
-                Doloremque, placeat? Molestias iure atque optio facilis, rerum cumque, nobis hic magnam, esse quo sunt amet 
-                ut consectetur doloremque assumenda reprehenderit asperiores aspernatur accusantium modi nam ad itaque omnis 
-                beatae? Odit, reprehenderit. Saepe accusamus vero eius rerum voluptate amet eos sequi quae sunt, 
-                iure repudiandae iste eum?
+                Selamat datang di Veluna — rumahnya para pecinta fashion yang selalu ingin tampil keren tanpa harus 
+                bikin dompet menangis. Di sini, kamu bebas memilih gaya apa pun yang kamu mau: kasual, elegan, sporty, 
+                sampai outfit “mau pergi tapi malas dandan” juga ada. Karena kami percaya, fashion itu bukan soal 
+                seberapa mahal pakaianmu, tapi bagaimana kamu merasa nyaman dan percaya diri ketika memakainya.
             </p>
             <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus quae incidunt 
-                assumenda nobis facere! Distinctio rem incidunt ipsum ipsa maxime fugiat ut nulla ab reprehenderit 
-                neque consequuntur aliquid ipsam optio quibusdam dolorum illo eos voluptate corporis, nobis tempora 
-                voluptatum. Autem magnam voluptates animi quasi et saepe, ad nihil voluptate ullam fugiat nulla nobis. 
-                Doloremque, placeat? Molestias iure atque optio facilis, rerum cumque, nobis hic magnam, esse quo sunt amet 
-                ut consectetur doloremque assumenda reprehenderit asperiores aspernatur accusantium modi nam ad itaque omnis 
-                beatae? Odit, reprehenderit. Saepe accusamus vero eius rerum voluptate amet eos sequi quae sunt, 
-                iure repudiandae iste eum?
+                Veluna hadir untuk memberikan pengalaman belanja yang menyenangkan, gampang, dan anti drama. Produk kami 
+                dipilih dengan cermat, mulai dari bahan, model, sampai detail kecil yang bikin outfit kamu terlihat lebih 
+                “wow”. Setiap item dikemas dengan penuh cinta, karena kami ingin kamu merasa spesial bahkan sebelum paketnya 
+                sampai ke tanganmu.
             </p>
             <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus quae incidunt 
-                assumenda nobis facere! Distinctio rem incidunt ipsum ipsa maxime fugiat ut nulla ab reprehenderit 
-                neque consequuntur aliquid ipsam optio quibusdam dolorum illo eos voluptate corporis, nobis tempora 
-                voluptatum. Autem magnam voluptates animi quasi et saepe, ad nihil voluptate ullam fugiat nulla nobis. 
-                Doloremque, placeat? Molestias iure atque optio facilis, rerum cumque, nobis hic magnam, esse quo sunt amet 
-                ut consectetur doloremque assumenda reprehenderit asperiores aspernatur accusantium modi nam ad itaque omnis 
-                beatae? Odit, reprehenderit. Saepe accusamus vero eius rerum voluptate amet eos sequi quae sunt, 
-                iure repudiandae iste eum?
+                Kami mengerti bahwa hidup kadang penuh kejutan… dan isi lemari juga harus siap menghadapi semuanya. Makanya, 
+                koleksi kami selalu mengikuti tren biar kamu nggak ketinggalan style. Mau cari outfit untuk kuliah, kerja, 
+                nongkrong, liburan, atau sekadar foto aesthetic buat feed Instagram? Veluna siap bantu kamu jadi versi 
+                terbaik dari dirimu — dengan style, tentu saja.
+            </p>
+            <p>
+                Terima kasih sudah memilih Veluna sebagai partner fashion kamu. Yuk, terus ikuti update dan koleksi terbaru 
+                dari kami — karena kalau soal gaya, we got you!
+                Belanja santai, tampil kece, dan biarkan pakaianmu bicara.
             </p>
         </div>
       </div>

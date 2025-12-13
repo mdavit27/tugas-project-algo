@@ -17,6 +17,15 @@
             <li class="nav-item me-4">
                 <a class="nav-link" href="logout.php">Logout</a>
             </li>
+            <li class="nav-item me-4">
+                <a class="nav-link" href="report.php">Report</a>
+            </li>
+            <li class="nav-item me-4">
+                <a class="nav-link" href="stok-report.php">Stok Report</a>
+            </li>
+            <li class="nav-item me-4">
+                <a class="nav-link" href="produk-terlaris.php">Produk Terlaris</a>
+            </li>
         </ul>
         </div>
     </div>

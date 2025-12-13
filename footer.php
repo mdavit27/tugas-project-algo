@@ -6,7 +6,7 @@
                 <a href="https://www.instagram.com/muhammaddavitt_"><i class="fab fa-instagram fs-2"></i></a>
             </div>
             <div class="col-sm-1 d-flex justify-content-center mb-2">
-                <a href="https://wa.me/"><i class="fab fa-whatsapp fs-2"></i></a>
+                <a href="https://wa.me/6282225824408"><i class="fab fa-whatsapp fs-2"></i></a>
             </div>
         </div>
 
